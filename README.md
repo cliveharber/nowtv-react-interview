@@ -32,3 +32,7 @@ It has two publically exposed functions `getMessages` and `getMembers`. Your tas
 4. Format the timestamp of the message to be human readable
 
 5. Sort the messages by time
+
+## Submission
+
+Please upload your solution to your github account as a public repository, and send the URL to us.
