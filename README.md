@@ -29,7 +29,7 @@ It has two publically exposed functions `getMessages` and `getMembers`. Your tas
 
 3. Display the avatar of the user next to the message
 
-4. Format the timestamp of the message to be human readable
+4. Display and format the timestamp of the message to be human readable
 
 5. Sort the messages by time
 
