@@ -21,7 +21,7 @@ It has two publically exposed functions `getMessages` and `getMembers`. Your tas
 
 `service.js` currently consumes `data.js` to retrieve a list of messages, and put them into the redux store. 
 
-(Do not modify `data.js` to achieve these tasks)
+Do not modify `data.js` to achieve these tasks, and do not worry about the styling
 
 1. Render the list of messages from the redux store
 
