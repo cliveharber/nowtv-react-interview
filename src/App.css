@@ -22,3 +22,20 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+img {
+  float: left;
+  margin-right: 20px;
+}
+
+.itemListing {
+  padding-top: 8px;
+  clear: both;
+  margin-bottom: 8px;
+  height: 100px;
+}
+
+hr {
+  border-color: #ccc;
+  border-width: 1px;
+}
